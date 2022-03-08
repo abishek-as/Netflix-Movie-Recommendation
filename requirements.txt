@@ -1,0 +1,14 @@
+pandas
+nltk
+notebook
+gensim
+tqdm
+networkx
+node2vec
+sentence-transformers
+torch
+scikit-learn
+numpy
+matplotlib
+surprise
+ipywidgets
