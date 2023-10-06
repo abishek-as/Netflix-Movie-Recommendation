@@ -1,3 +1,5 @@
+![Types of Recommendation Systems](types_of_recomendation.png)
+
 # About the Project : Netflix-Movie-Recommendation
 
 ## To run this project you need
